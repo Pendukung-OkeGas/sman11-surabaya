@@ -78,50 +78,50 @@ const Prestasi = () => {
                 tanggal: "2025-05-16",
                 kategori: "Olahraga",
                 pemenang: "MOHAMAD EXCEL SRI AJI BINTANG PAMUNGKAS X.4",
-                gambar: "/placeholder.svg"
+                gambar: "/assets/images/prestasi/silat.png"
               },
               {
                 peringkat: "Juara 2",
                 nama_lomba: "Kumite Perorangan - 55 KG Junior Putra",
-                penyelenggara: "Kejurprov Forki Jawa Timur",
+                penyelenggara: "Kejuaraan Provinsi Forki Jawa Timur",
                 tanggal: "2025-04-05",
                 kategori: "Olahraga",
                 pemenang: "ANGGER BONDAN NARAYA X.2",
-                gambar: "/placeholder.svg"
-              },
-              {
-                peringkat: "Juara 3",
-                nama_lomba: "Festival Sains Nasional",
-                penyelenggara: "KEMENDIKBUD",
-                tanggal: "2023-10-12",
-                kategori: "Sains",
-                pemenang: "SITI NURHALIZA XI IPA.1",
-                gambar: "/placeholder.svg"
-              },
-              {
-                peringkat: "Juara 1",
-                nama_lomba: "Lomba Karya Tulis Ilmiah",
-                penyelenggara: "Institut Teknologi Sepuluh Nopember",
-                tanggal: "2023-11-05",
-                kategori: "Penelitian",
-                pemenang: "BAYU SETIAWAN XII IPA.3",
-                gambar: "/placeholder.svg"
+                gambar: "/assets/images/prestasi/karate.png"
               },
               {
                 peringkat: "Juara 2",
-                nama_lomba: "Kompetisi Robotika Jawa Timur",
-                penyelenggara: "Robotic Society East Java",
-                tanggal: "2023-09-18",
-                kategori: "Teknologi",
-                pemenang: "TIM ROBOTIKA SMAN 11",
-                gambar: "/placeholder.svg"
+                nama_lomba: "Thailand International Math Olympiad",
+                penyelenggara: "thaiimo",
+                tanggal: "2024-4-28",
+                kategori: "Matematika",
+                pemenang: "MUHAMMAD MAULANA RADITYA",
+                gambar: "/assets/images/prestasi/math-olympiad.png"
+              },
+              {
+                peringkat: "Juara 1",
+                nama_lomba: "Piala Soeratin U-17",
+                penyelenggara: "Kapal Api, PSII Jawa Timur",
+                tanggal: "2025-08-13",
+                kategori: "Olahraga",
+                pemenang: "SAIFCHEL EKA SATRIA XII.3.1",
+                gambar: "/assets/images/prestasi/sepakbola.png"
+              },
+              {
+                peringkat: "Juara 2",
+                nama_lomba: "Kejuaraan English Speech Competition Healthphoria",
+                penyelenggara: "Himpunan Mahasiswa Keperawatan Sotomo, Poltekes Kemenkes Surabaya",
+                tanggal: "2025-08-14",
+                kategori: "Bahasa",
+                pemenang: "SHAKILA TAFTARIKA XII.2.2",
+                gambar: "/assets/images/prestasi/english-speech.png"
               }
             ].map((prestasi, index) => (
               <Card key={`sample-${index}`} className="shadow-lg hover:shadow-xl transition-shadow duration-300">
                 <CardHeader>
                   <div className="flex justify-center mb-4">
                     <img 
-                      src="/placeholder.svg" 
+                      src={prestasi.gambar}
                       alt={prestasi.nama_lomba}
                       className="w-full h-48 object-cover rounded-lg"
                     />

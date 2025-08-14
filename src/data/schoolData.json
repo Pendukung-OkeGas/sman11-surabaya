@@ -48,7 +48,7 @@
           "Siswa diterima di Perguruan Tinggi Negeri mencapai 50%",
           "Meningkatkan kemampuan vokasional siswa: Siswa mampu berbahasa asing khususnya bahasa Inggris, Bahasa Jerman, serta Komputer",
           "Meningkatkan perbaikan, pemeliharaan dan pembangunan sarana prasarana sekolah",
-          "Memiliki finalis olimpiade (Matematika, Fisika, Kimia, Komputer dan Astronomi) dan KIR Tingkat Kota Surabaya tahun 2012 serta finalis Olah Raga (khusus Volly, Cheer Leader, Basket, Panjat tebing, karate dan silat) dan Seni."
+          "Memiliki finalis olimpiade (Matematika, Fisika, Kimia, Komputer dan Astronomi) dan KIR Tingkat Kota Surabaya serta finalis Olah Raga (khusus Volly, Cheer Leader, Basket, Panjat tebing, karate dan silat) dan Seni."
         ]
       },
       "sejarah_sekolah": {
@@ -110,9 +110,9 @@
         ]
       },
       "prestasi": {
-        "deskripsi_umum": "Siswa dan guru SMAN 11 Surabaya secara konsisten menorehkan berbagai prestasi membanggakan di berbagai bidang.",
+        "deskripsi_umum": "Siswa di SMAN 11 Surabaya secara konsisten menorehkan berbagai prestasi membanggakan di berbagai bidang.",
         "daftar_prestasi": [
-          { "peringkat": "Peringkat Umum", "nama_lomba": "Duta Pendidikan Kota Surabaya (Xiamen China)", "penyelenggara": "PEMKOT SURABAYA", "tanggal": "2011-09-18", "kategori": "Pendidikan", "pemenang": "PUTRI FATMAWATI XII IPA.1" }
+          { "peringkat": "2", "nama_lomba": "Student Ambassador Series", "penyelenggara": "JAWA POS ARENA", "tanggal": "2025-08-11", "kategori": "Sosial", "pemenang": "CHRISTINE TEGAR ANUGERAH", "gambar": "/assets/images/prestasi/student-ambassador.png" }
         ]
       }
     },
