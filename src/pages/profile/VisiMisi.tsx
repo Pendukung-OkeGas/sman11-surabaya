@@ -5,7 +5,7 @@ import schoolData from "@/data/schoolData.json";
 
 const VisiMisi = () => {
   const { profil } = schoolData.website_profile_sman11_surabaya;
-  const { visi_misi } = profil;
+  const { visi_misi: { visi, misi, tujuan } } = profil;
 
   return (
     <Layout>
@@ -34,7 +34,7 @@ const VisiMisi = () => {
               <CardContent>
                 <div className="text-center">
                   <p className="text-xl md:text-2xl leading-relaxed text-balance font-medium">
-                    "{visi_misi.visi}"
+                    "{visi}"
                   </p>
                 </div>
               </CardContent>
@@ -52,7 +52,7 @@ const VisiMisi = () => {
               </CardHeader>
               <CardContent>
                 <div className="space-y-6">
-                  {visi_misi.misi.map((item, index) => (
+                  {misi.map((item, index) => (
                     <div key={index} className="flex items-start space-x-4">
                       <div className="flex-shrink-0 h-8 w-8 rounded-full bg-primary/10 flex items-center justify-center mt-1">
                         <span className="text-primary font-bold">{index + 1}</span>
