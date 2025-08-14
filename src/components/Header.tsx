@@ -125,8 +125,10 @@ const Header = () => {
                   <Menu className="h-6 w-6" />
                 </Button>
               </SheetTrigger>
-              <SheetContent side="left" className="school-header border-none">
-                <div className="flex items-center justify-between mb-8">
+            <SheetContent side="left" className="school-header border-none p-0 flex flex-col">
+              {/* Header of the sheet (fixed at the top) */}
+              <div className="p-4 border-b border-white/10">
+                <div className="flex items-center justify-between">
                   <div className="flex items-center space-x-3">
                     <img 
                       src={logo}
@@ -138,14 +140,16 @@ const Header = () => {
                       <p className="text-sm opacity-90">Surabaya</p>
                     </div>
                   </div>
+                  <SheetClose asChild>
+                    <Button variant="ghost" size="icon" className="text-white">
+                      <X className="h-6 w-6" />
+                    </Button>
+                  </SheetClose>
                 </div>
+              </div>
 
-                <SheetClose asChild>
-                  <Button variant="ghost" size="icon" className="text-white">
-                    <X className="h-6 w-6" />
-                  </Button>
-                </SheetClose>
-
+              {/* Scrollable Navigation Area */}
+              <div className="flex-1 overflow-y-auto p-4">
                 <nav className="space-y-4">
                   {menuItems.map((item) => (
                     <div key={item.title} className="space-y-2">
@@ -180,7 +184,8 @@ const Header = () => {
                     </div>
                   ))}
                 </nav>
-              </SheetContent>
+              </div>
+            </SheetContent>
             </Sheet>
           </div>
         </div>
