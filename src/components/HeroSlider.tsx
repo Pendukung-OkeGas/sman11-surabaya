@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import heroImage from "@/assets/foto-sekolah.jpg";
 import studentsImage from "@/assets/prestasi/sepakbola.png";
-import graduationImage from "@/assets/graduation-ceremony.jpg";
+import graduationImage from "@/assets/kelulusan.jpg";
 
 const HeroSlider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
