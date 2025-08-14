@@ -125,67 +125,67 @@ const Header = () => {
                   <Menu className="h-6 w-6" />
                 </Button>
               </SheetTrigger>
-            <SheetContent side="left" className="school-header border-none p-0 flex flex-col">
-              {/* Header of the sheet (fixed at the top) */}
-              <div className="p-4 border-b border-white/10">
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center space-x-3">
-                    <img 
-                      src={logo}
-                      alt="Logo SMAN 11"
-                      className="h-8 w-8"
-                    />
-                    <div className="text-white">
-                      <h2 className="font-bold">SMAN 11</h2>
-                      <p className="text-sm opacity-90">Surabaya</p>
+              <SheetContent side="left" className="school-header border-none p-0 flex flex-col">
+                {/* Header of the sheet (fixed at the top) */}
+                <div className="p-4 border-b border-white/10">
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center space-x-3">
+                      <img 
+                        src={logo}
+                        alt="Logo SMAN 11"
+                        className="h-8 w-8"
+                      />
+                      <div className="text-white">
+                        <h2 className="font-bold">SMAN 11</h2>
+                        <p className="text-sm opacity-90">Surabaya</p>
+                      </div>
                     </div>
+                    <SheetClose asChild>
+                      <Button variant="ghost" size="icon" className="text-white">
+                        <X className="h-6 w-6" />
+                      </Button>
+                    </SheetClose>
                   </div>
-                  <SheetClose asChild>
-                    <Button variant="ghost" size="icon" className="text-white">
-                      <X className="h-6 w-6" />
-                    </Button>
-                  </SheetClose>
                 </div>
-              </div>
 
-              {/* Scrollable Navigation Area */}
-              <div className="flex-1 overflow-y-auto p-4">
-                <nav className="space-y-4">
-                  {menuItems.map((item) => (
-                    <div key={item.title} className="space-y-2">
-                      {item.href ? (
-                        <SheetClose asChild>
-                          <Link
-                            to={item.href}
-                            className="block text-white hover:text-blue-200 transition-colors duration-300 py-2 px-3 rounded-lg hover:bg-white/10"
-                          >
-                            {item.title}
-                          </Link>
-                        </SheetClose>
-                      ) : (
-                        <>
-                          <h3 className="text-white font-semibold py-2 px-3">
-                            {item.title}
-                          </h3>
-                          <div className="ml-4 space-y-1">
-                            {item.items?.map((subItem) => (
-                              <SheetClose asChild key={subItem.name}>
-                                <Link
-                                  to={subItem.href}
-                                  className="block text-white/80 hover:text-white transition-colors duration-300 py-1 px-3 rounded"
-                                >
-                                  {subItem.name}
-                                </Link>
-                              </SheetClose>
-                            ))}
-                          </div>
-                        </>
-                      )}
-                    </div>
-                  ))}
-                </nav>
-              </div>
-            </SheetContent>
+                {/* Scrollable Navigation Area */}
+                <div className="flex-1 overflow-y-auto p-4">
+                  <nav className="space-y-4">
+                    {menuItems.map((item) => (
+                      <div key={item.title} className="space-y-2">
+                        {item.href ? (
+                          <SheetClose asChild>
+                            <Link
+                              to={item.href}
+                              className="block text-white hover:text-blue-200 transition-colors duration-300 py-2 px-3 rounded-lg hover:bg-white/10"
+                            >
+                              {item.title}
+                            </Link>
+                          </SheetClose>
+                        ) : (
+                          <>
+                            <h3 className="text-white font-semibold py-2 px-3">
+                              {item.title}
+                            </h3>
+                            <div className="ml-4 space-y-1">
+                              {item.items?.map((subItem) => (
+                                <SheetClose asChild key={subItem.name}>
+                                  <Link
+                                    to={subItem.href}
+                                    className="block text-white/80 hover:text-white transition-colors duration-300 py-1 px-3 rounded"
+                                  >
+                                    {subItem.name}
+                                  </Link>
+                                </SheetClose>
+                              ))}
+                            </div>
+                          </>
+                        )}
+                      </div>
+                    ))}
+                  </nav>
+                </div>
+              </SheetContent>
             </Sheet>
           </div>
         </div>
