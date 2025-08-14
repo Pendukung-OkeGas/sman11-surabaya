@@ -24,7 +24,7 @@ const TentangSekolah = () => {
             <TabsList className="grid w-full grid-cols-3">
               <TabsTrigger value="location">Lokasi</TabsTrigger>
               <TabsTrigger value="identity">Identitas Sekolah</TabsTrigger>
-              <TabsTrigger value="mars">Mars SMAN 11</TabsTrigger>
+              <TabsTrigger value="mars">Mars</TabsTrigger>
             </TabsList>
             
             <TabsContent value="location" className="mt-8">
