@@ -1,0 +1,172 @@
+{
+  "website_profile_sman11_surabaya": {
+    "last_updated": "2025-08-14T10:48:40+07:00",
+    "header": {
+      "nama_sekolah": "SMA NEGERI 11 SURABAYA",
+      "logo_placeholder": "logo-sman11.png"
+    },
+    "profil": {
+      "kepala_sekolah": {
+        "nama_sekarang": "Nana Petty Puspitasari, M.Pd.",
+        "nuptk": "3134751653300023",
+        "riwayat_kepala_sekolah": [
+          { "nama": "Bapak Soedadi", "catatan": "Pimpinan saat SMAN 11 masih menjadi filial SMAN 1 (1979)." },
+          { "nama": "Bapak Soegijarto", "catatan": "Kepala Sekolah pertama saat menempati gedung baru (1980)." },
+          { "nama": "Dra. Hj. S. Masyitoh", "catatan": null },
+          { "nama": "Soetomo", "catatan": null },
+          { "nama": "Darmawan, BA", "catatan": null },
+          { "nama": "Drs. Suharto", "catatan": null },
+          { "nama": "Drs. Darmawan", "catatan": null },
+          { "nama": "Drs. Sujono", "catatan": null },
+          { "nama": "Drs. H. Suparta, MM", "catatan": null },
+          { "nama": "Drs. H. Qomari S, MM", "catatan": null },
+          { "nama": "Dra. Hj. Rupiyati, MM", "catatan": null },
+          { "nama": "Drs. Bambang Utoyo, A.M.Pd", "catatan": null },
+          { "nama": "Dra. Marlina Kusmawati, M.M", "catatan": "Menjabat pada tahun 2015." },
+          { "nama": "Drs. R. Achmad Djunaidi, M.Pd.", "catatan": null },
+          { "nama": "Nana Petty Puspitasari, M.Pd.", "catatan": "Kepala Sekolah saat ini." }
+        ]
+      },
+      "visi_misi": {
+        "visi": "Mewujudkan insan peserta didik yang iman, cerdas, terampil dan berwawasan lingkungan.",
+        "misi": [
+          "Mengembangkan sekolah model dan inovasi pembelajaran berbasis teknologi informasi dan komunikasi.",
+          "Memberdayakan dan mengembangkan seluruh sumber daya yang ada di sekolah (Man, Money, Material and Environment).",
+          "Meningkatkan kualitas lulusan untuk dapat bersaing pada era global."
+        ]
+      },
+      "sejarah_sekolah": {
+        "judul": "Sejarah SMAN 11 Surabaya: Dari Filial Hingga Menjadi Sekolah Kawasan",
+        "narasi_lengkap": "Sejarah SMAN 11 Surabaya adalah cerminan dari sebuah perjuangan dan dedikasi panjang dalam dunia pendidikan. Berdiri di tengah kompleks Perumnas Tandes, sekolah ini telah melalui berbagai fase perkembangan hingga menjadi salah satu Sekolah Menengah Atas Negeri yang dikenal di Surabaya.\n\n**Awal Mula Berdiri (1979-1980)**\n\nPerjalanan SMAN 11 Surabaya dimulai pada bulan Juli 1979. Pada awalnya, sekolah ini belum memiliki gedung sendiri, melainkan berstatus sebagai filial (kelas jauh) dari SMAN 1 Surabaya dan berlokasi di Gedung SMA Kompleks, Jalan Wijaya Kusuma No. 48. Pada tahun ajaran pertama (1979-1980), sekolah ini menampung 4 kelas siswa dengan 12 guru pengajar, dibantu oleh beberapa guru dari SMAN 1 Surabaya di bawah pimpinan Kepala Sekolah Bapak Soedadi.\n\n**Pindah ke Gedung Baru dan Perkembangan Awal**\n\nTonggak sejarah penting terjadi pada tanggal 2 September 1980, ketika SMAN 11 Surabaya resmi pindah menempati gedung baru yang dibangun pemerintah di lokasi saat ini, yaitu di Perumnas Tandes, Manukan Kulon. Saat pindah, kepemimpinan sekolah dipegang oleh Bapak Soegijarto. Fasilitas awal di gedung baru ini terbilang cukup lengkap untuk masanya, terdiri dari 8 ruang kelas, ruang kepala sekolah, ruang guru, ruang TU, 2 laboratorium, perpustakaan, gudang, dan kamar mandi. Tenaga pengajar saat itu terdiri dari 21 guru tetap dan beberapa guru tidak tetap.\n\n**Pertumbuhan dan Kondisi Terkini**\n\nSeiring berjalannya waktu, SMAN 11 Surabaya terus berkembang pesat. Dari yang awalnya hanya memiliki belasan guru, kini sekolah didukung oleh tenaga pendidik dan kependidikan yang jauh lebih besar. Berdasarkan data terbaru, SMAN 11 Surabaya memiliki:\n- 59 Guru (Tenaga Pendidik)\n- 17 Tenaga Kependidikan (Staf Administrasi, dll.)\n- 1.074 Siswa\n- 30 Rombongan Belajar (Kelas)\n\nBerada di wilayah Surabaya Barat, SMAN 11 Surabaya terus berupaya secara kompetitif untuk meningkatkan mutu pendidikan dan prestasi siswanya, serta menjalankan masa pendidikan selama tiga tahun dari Kelas X hingga XII."
+      },
+      "tentang_sekolah": {
+        "lokasi": { "alamat_lengkap": "Jalan Perumnas Tandes I, Manukan Wetan, Kecamatan Tandes", "kota": "Surabaya", "provinsi": "Jawa Timur", "kode_pos": "60185" },
+        "identitas": { "npsn": "20532296", "akreditasi": "A", "status_sekolah": "Negeri", "bentuk_pendidikan": "SMA", "status_kepemilikan": "Pemerintah Daerah" },
+        "legalitas": { "sk_pendirian": "0188/0/1979", "tanggal_sk_pendirian": "1979-09-03", "sk_izin_operasional": "0188/0/1979", "tanggal_sk_izin_operasional": "1979-09-03" },
+        "mars": { "judul": "Mars SMA Negeri 11 Surabaya", "youtube_url": "https://www.youtube.com/watch?v=PM35Xy3HYSk", "lirik": "Bergerak serentak warga sekolah SMA Sebelas Surabaya\nMelangkah seiring doa membangun masa depan cerah\nWujudkan insan peserta didik yang iman, cerdas, dan trampil\nPerteguh misi sekolah abdikan bagi pertiwi\n\nKini tibalah saat bangkit gelorakan semangat\nKepakkan sayap terbang tinggi raihlah prestasi\nJunjunglah nama sekolah kita wujudkan karya yang nyata\nSMA Sebelas Surabaya pastikanlah semakin jaya" }
+      }
+    },
+    "kepegawaian": {
+      "status": "Data Belum Tersedia", "deskripsi": "Berisi data struktur organisasi, guru, manajemen, dan tenaga kependidikan. Membutuhkan daftar nama terbaru dan aset foto dari sekolah."
+    },
+    "akademik": {
+        "struktur_kurikulum": {
+        "deskripsi_umum": "Daftar mata pelajaran di SMA Negeri 11 Surabaya mengikuti kurikulum nasional. Secara umum, mata pelajaran yang diajarkan meliputi: Bahasa Indonesia, Bahasa Inggris, Matematika, Fisika, Kimia, Biologi, Sejarah, Geografi, Ekonomi, Sosiologi, Seni Budaya, Pendidikan Jasmani, Olahraga, dan Kesehatan, serta Pendidikan Agama dan Budi Pekerti. Selain itu, ada juga mata pelajaran pilihan sesuai dengan jurusan (IPA/IPS) yang dipilih siswa.",
+        "mata_pelajaran_wajib": {
+            "kelompok_a_umum": [ "Pendidikan Agama dan Budi Pekerti", "Pendidikan Pancasila dan Kewarganegaraan", "Bahasa Indonesia", "Matematika", "Sejarah Indonesia", "Bahasa Inggris" ],
+            "kelompok_b_umum": [ "Seni Budaya", "Pendidikan Jasmani, Olahraga, dan Kesehatan", "Informatika" ]
+        },
+        "mata_pelajaran_peminatan": {
+            "jurusan_ipa": [ "Matematika Peminatan", "Fisika", "Kimia", "Biologi", "Informatika" ],
+            "jurusan_ips": [ "Matematika Peminatan", "Sejarah", "Geografi", "Ekonomi", "Sosiologi" ]
+        }
+        },
+        "kokurikuler_p5": {
+        "judul": "Mengenal Projek Penguatan Profil Pelajar Pancasila (P5) di SMAN 11 Surabaya",
+        "deskripsi_umum": "Projek Penguatan Profil Pelajar Pancasila (P5) adalah bagian integral dari Kurikulum Merdeka yang bertujuan untuk membentuk siswa-siswi SMAN 11 Surabaya menjadi pribadi yang unggul, berkarakter, dan kompeten sesuai dengan nilai-nilai luhur Pancasila. Melalui P5, siswa tidak hanya belajar teori di dalam kelas, tetapi juga terlibat langsung dalam pembelajaran berbasis proyek untuk memecahkan masalah di lingkungan sekitarnya.",
+        "enam_dimensi_profil": {
+            "judul": "Enam Dimensi Profil Pelajar Pancasila",
+            "daftar_dimensi": [ "Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia", "Kebinekaan Global", "Bergotong Royong", "Mandiri", "Bernalar Kritis", "Kreatif" ]
+        },
+        "tujuh_tema_proyek": {
+            "judul": "Tujuh Tema Utama Proyek",
+            "deskripsi_tema": "Untuk mewujudkan keenam profil tersebut, SMAN 11 Surabaya akan mengimplementasikan proyek-proyek yang mengacu pada tujuh tema utama yang telah ditetapkan. Siswa akan memilih, merancang, dan melaksanakan proyek berdasarkan tema-tema berikut:",
+            "daftar_tema": [
+            { "tema": "Gaya Hidup Berkelanjutan", "penjelasan": "Mengajak siswa untuk memahami dampak aktivitas manusia terhadap lingkungan dan mencari solusi untuk gaya hidup yang lebih ramah lingkungan." },
+            { "tema": "Kearifan Lokal", "penjelasan": "Menggali dan melestarikan budaya, tradisi, dan nilai-nilai luhur yang ada di masyarakat sekitar Surabaya dan Jawa Timur." },
+            { "tema": "Bhinneka Tunggal Ika", "penjelasan": "Merayakan keberagaman, belajar hidup bersama dalam perbedaan, serta mencegah dan menyelesaikan konflik." },
+            { "tema": "Bangunlah Jiwa dan Raganya", "penjelasan": "Menumbuhkan kesadaran dan kesejahteraan fisik serta mental (well-being) pada diri sendiri dan orang lain." },
+            { "tema": "Suara Demokrasi", "penjelasan": "Mempelajari sistem demokrasi secara praktis, seperti melalui proses pemilihan ketua OSIS atau pembuatan kebijakan sekolah yang partisipatif." },
+            { "tema": "Berekayasa dan Berteknologi untuk Membangun NKRI", "penjelasan": "Mengasah kreativitas dan inovasi dalam menciptakan produk berbasis teknologi untuk menjawab kebutuhan masyarakat dan membangun bangsa." },
+            { "tema": "Kewirausahaan", "penjelasan": "Menumbuhkan jiwa wirausaha dengan mengidentifikasi potensi ekonomi lokal dan merancang strategi bisnis dari tahap awal hingga akhir." }
+            ]
+        },
+        "kesimpulan": "Dengan adanya P5, SMAN 11 Surabaya berkomitmen untuk mencetak lulusan yang tidak hanya cerdas secara akademis, tetapi juga memiliki kepekaan sosial, kreatif, mandiri, dan siap menjadi warga negara yang bertanggung jawab."
+        }
+    },
+    "kesiswaan": {
+      "tata_tertib": { "status": "Data Tersedia", "deskripsi": "Dokumen Tata Tertib Siswa SMAN 11 Surabaya versi 2020 telah diterima." },
+      "model_seragam": { "status": "Data Belum Tersedia", "deskripsi": "Membutuhkan foto model seragam (putih-abu, batik, pramuka) dari sekolah." },
+      "ekstrakurikuler": {
+        "deskripsi_umum": "SMA Negeri 11 memiliki banyak kegiatan ekstrakurikuler untuk menyalurkan minat dan bakat siswa, di antaranya:",
+        "daftar_ekstrakurikuler": [
+          { "nama": "Palang Merah Remaja (PMR)", "nama_khusus": "BRIPERAXIS" }, { "nama": "Pecinta IT", "nama_khusus": "PENITI" }, { "nama": "Rancang Bangun Komputer", "nama_khusus": "RBK" }, { "nama": "Jurnalistik", "nama_khusus": null }, { "nama": "Cheerleader", "nama_khusus": "FussCheerleading, Rebornelevencheerleading" }, { "nama": "Basket", "nama_khusus": "Tarmihim" }, { "nama": "Voli", "nama_khusus": null }, { "nama": "Sie Kerohanian Islam", "nama_khusus": "SKI" }, { "nama": "Pecinta Alam", "nama_khusus": "AXIPALA" }, { "nama": "Angklung", "nama_khusus": null }, { "nama": "English Club", "nama_khusus": "iWacs" }, { "nama": "Vocal Group", "nama_khusus": null }, { "nama": "Karawitan", "nama_khusus": null }, { "nama": "Badminton", "nama_khusus": null }, { "nama": "Futsal (Putra & Putri)", "nama_khusus": null }, { "nama": "Passal", "nama_khusus": null }, { "nama": "Tari Tradisional", "nama_khusus": null }, { "nama": "Jujitsu", "nama_khusus": null }, { "nama": "Tunas Hijau", "nama_khusus": null }, { "nama": "PRAMUKA", "nama_khusus": null }, { "nama": "Konselor Sebaya", "nama_khusus": null }
+        ]
+      },
+      "prestasi": {
+        "deskripsi_umum": "Siswa dan guru SMAN 11 Surabaya secara konsisten menorehkan berbagai prestasi membanggakan di berbagai bidang.",
+        "daftar_prestasi": [
+          { "peringkat": "Peringkat Umum", "nama_lomba": "Duta Pendidikan Kota Surabaya (Xiamen China)", "penyelenggara": "PEMKOT SURABAYA", "tanggal": "2011-09-18", "kategori": "Pendidikan", "pemenang": "PUTRI FATMAWATI XII IPA.1" }
+        ]
+      }
+    },
+    "sarana_prasarana": {
+      "denah_sekolah": { "status": "Data Belum Tersedia", "deskripsi": "Membutuhkan foto Denah Sekolah dari pihak sekolah." },
+      "fasilitas": {
+        "deskripsi_umum": "Berbagai fasilitas dimiliki SMAN 11 Surabaya untuk menunjang kegiatan belajar mengajar.",
+        "daftar_fasilitas": [
+          "Kelas", "Perpustakaan", "Laboratorium Biologi", "Laboratorium Fisika", "Laboratorium Kimia", "Laboratorium Komputer", "Laboratorium Bahasa", "Lapangan Basket", "Lapangan Futsal", "Lapangan Voli", "Aula", "Kantin (2 Lokasi)", "Koperasi Sekolah", "Ruang Bimbingan Konseling (BK)", "Ruang Guru", "Ruang Kepala Sekolah", "Gazebo", "Sanggar Ekstrakurikuler", "Pendopo Karawitan", "Studio Musik/Band", "Masjid", "Area Parkir (Siswa dengan SIM & Guru)", "Unit Kesehatan Sekolah (UKS)", "Kamar Mandi Siswa", "Greenhouse", "Rumah Jamur", "Ruang Karawitan"
+        ]
+      },
+      "aplikasi": { "dapodik": "https://dapo.kemdikbud.go.id/sekolah/9826D45D78358485F495" }
+    },
+    "dashboard": {
+        "about_us": {
+            "judul": "Tentang Kami: SMA Negeri 11 Surabaya",
+            "narasi_singkat": "Selamat datang di website resmi SMA Negeri 11 Surabaya! Berlokasi di jantung pemukiman Surabaya Barat, tepatnya di Jalan Perumnas Tandes I Manukan Kulon, SMAN 11 Surabaya hadir sebagai sekolah kawasan yang berdedikasi untuk mencetak generasi penerus bangsa yang unggul dan berkarakter.\n\nDidirikan pada tahun 1979 dan telah melalui perjalanan panjang yang membentuk identitas kami, SMAN 11 Surabaya secara konsisten berkomitmen untuk \"Mewujudkan insan peserta didik yang iman, cerdas, terampil dan berwawasan lingkungan\". Dengan dukungan puluhan tenaga pendidik profesional dan fasilitas yang terus berkembang, kami siap mengantarkan para siswa untuk meraih prestasi dan menghadapi tantangan masa depan.\n\nWebsite ini merupakan jendela informasi bagi Anda untuk mengenal lebih dalam tentang program akademik, kegiatan kesiswaan, dan berbagai prestasi yang telah kami raih. Jelajahi lebih lanjut untuk menemukan mengapa SMAN 11 Surabaya adalah tempat yang tepat untuk bertumbuh dan berprestasi.",
+            "tombol_selengkapnya": {
+                "teks": "Baca Selengkapnya Tentang Sejarah Kami",
+                "link_tujuan": "/profil/sejarah-sekolah"
+            }
+        }
+    },
+    "alumni": {
+        "judul_seksi": "Kata Alumni",
+        "deskripsi_seksi": "Kisah inspiratif dari para alumni yang telah meniti karier dan kehidupan setelah lulus dari SMAN 11 Surabaya.",
+        "testimonials": [
+            {
+                "nama": "Hj. Ria Febriandary",
+                "lulusan_tahun": 1982,
+                "kutipan": "Masa-masa di SMAN 11 Surabaya bukan hanya tentang belajar di kelas, tapi juga tentang membentuk karakter. Saya belajar tentang arti persahabatan, disiplin, dan kerja keras dari guru-guru yang berdedikasi. Fondasi yang saya dapatkan di sini menjadi bekal yang sangat berharga dalam perjalanan hidup saya. Kenangan di SMAN 11 tak akan pernah terlupakan."
+            },
+            {
+                "nama": "Dra. Sonja Andarini, M.Si",
+                "lulusan_tahun": 1984,
+                "kutipan": "Dasar-dasar ilmu pengetahuan yang saya peroleh di SMAN 11 Surabaya sangat kokoh dan menjadi bekal utama saya untuk melanjutkan ke jenjang pendidikan tinggi hingga meraih gelar magister. Cara para guru menjelaskan konsep-konsep rumit dengan sabar membuat saya jatuh cinta pada ilmu pengetahuan. Saya sangat bersyukur pernah menjadi bagian dari almamater hebat ini."
+            },
+            {
+                "nama": "RADEN AGUS TEGUH WIDODO",
+                "lulusan_tahun": 1985,
+                "kutipan": "Saya tidak hanya dibentuk di dalam ruang kelas, tetapi juga di lapangan dan ruang organisasi. Aktif di kegiatan ekstrakurikuler SMAN 11 mengajarkan saya tentang kepemimpinan, kerja sama tim, dan cara mengelola waktu. Pengalaman inilah yang ternyata sangat berharga dan membentuk saya dalam meniti karier. Terima kasih SMAN 11 Surabaya atas semua pelajarannya, baik di dalam maupun di luar kelas."
+            }
+        ]
+    },
+    "artikel_sekolah": {
+      "daftar_artikel": [
+        {
+          "id": 1,
+          "judul": "Doa Bersama dan Penggalangan Dana untuk Korban Gempa Bumi di Cianjur",
+          "tanggal_publikasi": "2022-11-30",
+          "penulis": "Tim Jurnalistik SMAN 11",
+          "gambar_placeholder": "artikel_cianjur.svg",
+          "kutipan_singkat": "Senin (28/11) seluruh warga SMA Negeri 11 Surabaya berkumpul di Masjid Baitul Ilmi dalam rangka Doa Bersama dan Penggalangan Dana untuk Korban Gempa Bumi di Cianjur...",
+          "isi_lengkap": "Senin (28/11) seluruh warga SMA Negeri 11 Surabaya berkumpul di Masjid Baitul Ilmi dalam rangka Doa Bersama dan Penggalangan Dana untuk Korban Gempa Bumi di Cianjur. Doa bersama ini diikuti oleh seluruh warga muslim SMA Negeri 11 Surabaya yang juga dipersiapkan untuk PAS/UAS Gasal tahun 2022-2023.\n\nAcara ini diinisiasi oleh OSIS SMA Negeri 11 Surabaya yang disambut dengan baik oleh pembina SKI SMA Negeri 11 Surabaya, Abah Ghazali yang juga langsung direspon positif oleh Wakasek Kesiswaan Pak Candra. Bersama seluruh staf, Pak Candra memobilisasi siswa menuju masjid. Acara dimulai dengan melantunkan shalawat dilanjutkan dengan sholat jenazah dan istighosah serta dzikir dengan kalimat-kalimat thayyibah.\n\nSementara itu, untuk warga non-muslim berkumpul dan doa bersama di Aula SMAN 11 Surabaya. Mereka menyatu satu sama lain untuk melantunkan doa keselamatan dan kebaikan bagi korban yang selamat dari musibah gempa bumi ini.\n\nDari acara ini didapatkan donasi siswa dan seluruh elemen warga SMA Negeri 11 Surabaya bernilai hampir 20 juta rupiah yang nantinya disampaikan kepada korban bencana melalui saluran resmi pemerintah.\n\nSemoga doa kebaikan dikabulkan oleh Allah Tuhan Yang Mahakuasa."
+        },
+        {
+          "id": 2,
+          "judul": "Drama Kolosal Pertempuran 10 November",
+          "tanggal_publikasi": "2022-11-12",
+          "penulis": "Tim Jurnalistik SMAN 11",
+          "gambar_placeholder": "artikel_drama.svg",
+          "kutipan_singkat": "Pementasan drama kolosal Pertempuran 10 November usai upacara hari pahlawan (10/11) tahun 2022 berlangsung sukses besar. Antusiasme sebagian besar siswa SMA Negeri 11 Surabaya tampak pada tumpah ruah...",
+          "isi_lengkap": "Pementasan drama kolosal Pertempuran 10 November usai upacara hari pahlawan (10/11) tahun 2022 berlangsung sukses besar. Antusiasme sebagian besar siswa SMA Negeri 11 Surabaya tampak pada tumpah ruah di sekeliling lapangan dan histeria mereka pada setiap adegan yang mendebarkan dan ketegangan konflik yang memuncak.\n\nPlot cerita dengan dialog dan narasi pengiringnya, penjiwaan peran sangat bagus tampak di setiap adegan. Terlebih backsound di setiap scene-nya juga mendukung dalam membangun suasana. Meski ending kurang dramatis tapi secara umum bila dinilai dengan skala 1-10, maka angka 9 pas untuk Pementasan Drama Kolosal Pertempuran 10 November ini.\n\nSepanjang drama berlangsung, kekaguman atas penjiwaan peran oleh masing-masing personel pemain tidak diragukan lagi. Di setiap adegan menegangkan terutama adegan perobekan bendera Belanda dan klimaks pertempuran, emosi dalam diri terbangkitkan. Gemuruh dalam dada serasa ingin meledak tumpah. Rasa haru dan bangga itu mengemuka. Bisa dipastikan bila menonton sendiri tanpa terlihat orang lain, gemuruh dada meluap menjadi tangis dan air mata. Hanya diam tanpa ekspresi demi untuk menutupi apa yang dirasa.\n\nLuar biasa. Salut dan hormat untuk semua yang terlibat."
+        }
+      ]
+    },
+    "footer": {
+      "kontak_kami": {
+        "nomor_telepon": "(031) 7405420", "email": "smaxisurabaya@gmail.com", "website_url": "https://www.sman11surabaya.sch.id", "instagram_url": "https://www.instagram.com/smaxisofficial/", "facebook_url": "https://web.facebook.com/sma11sby"
+      }
+    }
+  }
+}
