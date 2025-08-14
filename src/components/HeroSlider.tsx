@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import heroImage from "@/assets/foto-sekolah.jpg";
-import studentsImage from "@/assets/piala-soeratin.png";
+import studentsImage from "@/assets/prestasi/sepakbola.png";
 import graduationImage from "@/assets/graduation-ceremony.jpg";
 
 const HeroSlider = () => {
