@@ -2,6 +2,11 @@ import Layout from "@/components/Layout";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Trophy, Calendar, Building2, User } from "lucide-react";
 import schoolData from "@/data/schoolData.json";
+import silat from "@/assets/prestasi/silat.png";
+import karate from "@/assets/prestasi/karate.png";
+import math from "@/assets/prestasi/math-olympiad.png";
+import sepakbola from "@/assets/prestasi/sepakbola.png";
+import englishspeech from "@/assets/prestasi/english-speech.png";
 
 const Prestasi = () => {
   const prestasiData = schoolData.website_profile_sman11_surabaya.kesiswaan.prestasi;
@@ -78,7 +83,7 @@ const Prestasi = () => {
                 tanggal: "2025-05-16",
                 kategori: "Olahraga",
                 pemenang: "MOHAMAD EXCEL SRI AJI BINTANG PAMUNGKAS X.4",
-                gambar: "/assets/images/prestasi/silat.png"
+                gambar: {silat}
               },
               {
                 peringkat: "Juara 2",
@@ -87,7 +92,7 @@ const Prestasi = () => {
                 tanggal: "2025-04-05",
                 kategori: "Olahraga",
                 pemenang: "ANGGER BONDAN NARAYA X.2",
-                gambar: "/assets/images/prestasi/karate.png"
+                gambar: {karate}
               },
               {
                 peringkat: "Juara 2",
@@ -96,7 +101,7 @@ const Prestasi = () => {
                 tanggal: "2024-4-28",
                 kategori: "Matematika",
                 pemenang: "MUHAMMAD MAULANA RADITYA",
-                gambar: "/assets/images/prestasi/math-olympiad.png"
+                gambar: {math}
               },
               {
                 peringkat: "Juara 1",
@@ -105,7 +110,7 @@ const Prestasi = () => {
                 tanggal: "2025-08-13",
                 kategori: "Olahraga",
                 pemenang: "SAIFCHEL EKA SATRIA XII.3.1",
-                gambar: "/assets/images/prestasi/sepakbola.png"
+                gambar: {sepakbola}
               },
               {
                 peringkat: "Juara 2",
@@ -114,7 +119,7 @@ const Prestasi = () => {
                 tanggal: "2025-08-14",
                 kategori: "Bahasa",
                 pemenang: "SHAKILA TAFTARIKA XII.2.2",
-                gambar: "/assets/images/prestasi/english-speech.png"
+                gambar: {englishspeech}
               }
             ].map((prestasi, index) => (
               <Card key={`sample-${index}`} className="shadow-lg hover:shadow-xl transition-shadow duration-300">

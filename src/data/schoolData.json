@@ -111,9 +111,7 @@
       },
       "prestasi": {
         "deskripsi_umum": "Siswa di SMAN 11 Surabaya secara konsisten menorehkan berbagai prestasi membanggakan di berbagai bidang.",
-        "daftar_prestasi": [
-          { "peringkat": "2", "nama_lomba": "Student Ambassador Series", "penyelenggara": "JAWA POS ARENA", "tanggal": "2025-08-11", "kategori": "Sosial", "pemenang": "CHRISTINE TEGAR ANUGERAH", "gambar": "/assets/images/prestasi/student-ambassador.png" }
-        ]
+        "daftar_prestasi": []
       }
     },
     "sarana_prasarana": {
