@@ -120,11 +120,6 @@ const HeroSlider = () => {
           />
         ))}
       </div>
-
-      {/* Touch indicators for mobile */}
-      <div className="md:hidden absolute bottom-4 left-1/2 -translate-x-1/2 text-white/70 text-sm">
-        Geser untuk navigasi
-      </div>
     </div>
   );
 };
