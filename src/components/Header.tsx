@@ -140,6 +140,12 @@ const Header = () => {
                   </div>
                 </div>
 
+                <SheetClose asChild>
+                  <Button variant="ghost" size="icon" className="text-white">
+                    <X className="h-6 w-6" />
+                  </Button>
+                </SheetClose>
+
                 <nav className="space-y-4">
                   {menuItems.map((item) => (
                     <div key={item.title} className="space-y-2">
