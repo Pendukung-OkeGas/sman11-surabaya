@@ -73,20 +73,20 @@ const Prestasi = () => {
             {[
               {
                 peringkat: "Juara 1",
-                nama_lomba: "Olimpiade Matematika Tingkat Kota",
-                penyelenggara: "Dinas Pendidikan Kota Surabaya",
-                tanggal: "2023-05-15",
-                kategori: "Akademik",
-                pemenang: "AHMAD REZA PAHLAWAN XII IPA.2",
+                nama_lomba: "Pencak Silat Seni Tunggal Bersenjata Putra Tingkat Nasional",
+                penyelenggara: "Kementerian Pemuda dan Olahraga",
+                tanggal: "2025-05-16",
+                kategori: "Olahraga",
+                pemenang: "MOHAMAD EXCEL SRI AJI BINTANG PAMUNGKAS X.4",
                 gambar: "/placeholder.svg"
               },
               {
                 peringkat: "Juara 2",
-                nama_lomba: "Lomba Debat Bahasa Inggris",
-                penyelenggara: "Universitas Airlangga",
-                tanggal: "2023-08-20",
-                kategori: "Bahasa",
-                pemenang: "TIM DEBAT SMAN 11",
+                nama_lomba: "Kumite Perorangan - 55 KG Junior Putra",
+                penyelenggara: "Kejurprov Forki Jawa Timur",
+                tanggal: "2025-04-05",
+                kategori: "Olahraga",
+                pemenang: "ANGGER BONDAN NARAYA X.2",
                 gambar: "/placeholder.svg"
               },
               {
