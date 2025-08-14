@@ -1,5 +1,6 @@
 import { MapPin, Phone, Mail, Instagram, Facebook } from "lucide-react";
 import schoolData from "@/data/schoolData.json";
+import logo from "@/assets/logo.png";
 
 const Footer = () => {
   const { footer } = schoolData.website_profile_sman11_surabaya;
@@ -12,9 +13,11 @@ const Footer = () => {
           {/* School Info */}
           <div className="space-y-4">
             <div className="flex items-center space-x-3 mb-6">
-              <div className="h-12 w-12 rounded-full bg-white/20 flex items-center justify-center">
-                <span className="text-white font-bold text-xl">11</span>
-              </div>
+              <img 
+                src={logo}
+                alt="Logo SMAN 11"
+                className="h-12 w-12"
+              />
               <div>
                 <h3 className="text-xl font-bold">SMA NEGERI 11</h3>
                 <p className="text-blue-200">SURABAYA</p>
