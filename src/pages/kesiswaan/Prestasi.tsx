@@ -83,7 +83,7 @@ const Prestasi = () => {
                 tanggal: "2025-05-16",
                 kategori: "Olahraga",
                 pemenang: "MOHAMAD EXCEL SRI AJI BINTANG PAMUNGKAS X.4",
-                gambar: {silat}
+                gambar: silat
               },
               {
                 peringkat: "Juara 2",
@@ -92,7 +92,7 @@ const Prestasi = () => {
                 tanggal: "2025-04-05",
                 kategori: "Olahraga",
                 pemenang: "ANGGER BONDAN NARAYA X.2",
-                gambar: {karate}
+                gambar: karate
               },
               {
                 peringkat: "Juara 2",
@@ -101,7 +101,7 @@ const Prestasi = () => {
                 tanggal: "2024-4-28",
                 kategori: "Matematika",
                 pemenang: "MUHAMMAD MAULANA RADITYA",
-                gambar: {math}
+                gambar: math
               },
               {
                 peringkat: "Juara 1",
@@ -110,7 +110,7 @@ const Prestasi = () => {
                 tanggal: "2025-08-13",
                 kategori: "Olahraga",
                 pemenang: "SAIFCHEL EKA SATRIA XII.3.1",
-                gambar: {sepakbola}
+                gambar: sepakbola
               },
               {
                 peringkat: "Juara 2",
@@ -119,7 +119,7 @@ const Prestasi = () => {
                 tanggal: "2025-08-14",
                 kategori: "Bahasa",
                 pemenang: "SHAKILA TAFTARIKA XII.2.2",
-                gambar: {englishspeech}
+                gambar: englishspeech
               }
             ].map((prestasi, index) => (
               <Card key={`sample-${index}`} className="shadow-lg hover:shadow-xl transition-shadow duration-300">
