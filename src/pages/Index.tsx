@@ -3,6 +3,7 @@ import Layout from "@/components/Layout";
 import HeroSlider from "@/components/HeroSlider";
 import AboutSection from "@/components/AboutSection";
 import NewsSection from "@/components/NewsSection";
+import AlumniSection from "@/components/AlumniSection";
 
 const Index = () => {
   useEffect(() => {
@@ -49,6 +50,7 @@ const Index = () => {
       <HeroSlider />
       <AboutSection />
       <NewsSection />
+      <AlumniSection />
     </Layout>
   );
 };

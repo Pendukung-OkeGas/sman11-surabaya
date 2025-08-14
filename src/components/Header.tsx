@@ -17,41 +17,45 @@ const Header = () => {
     {
       title: "Profil",
       items: [
+        { name: "Kepala Sekolah", href: "/profil/kepala-sekolah" },
         { name: "Visi & Misi", href: "/profil/visi-misi" },
         { name: "Sejarah Sekolah", href: "/profil/sejarah-sekolah" },
-        { name: "Kepala Sekolah", href: "/profil/kepala-sekolah" },
+        { name: "Tentang Sekolah", href: "/profil/tentang-sekolah" },
       ],
     },
     {
       title: "Kepegawaian",
       items: [
-        { name: "Struktur Organisasi", href: "/kepegawaian/struktur" },
+        { name: "Struktur Organisasi", href: "/kepegawaian/struktur-organisasi" },
         { name: "Data Guru", href: "/kepegawaian/guru" },
+        { name: "Manajemen", href: "/kepegawaian/manajemen" },
+        { name: "Tenaga Kependidikan", href: "/kepegawaian/tenaga-kependidikan" },
       ],
     },
     {
       title: "Akademik",
       items: [
-        { name: "Kurikulum", href: "/akademik/kurikulum" },
-        { name: "P5 (Projek Pancasila)", href: "/akademik/p5" },
+        { name: "Struktur Kurikulum", href: "/akademik/struktur-kurikulum" },
+        { name: "Kokurikuler P5", href: "/akademik/kokurikuler-p5" },
       ],
     },
     {
       title: "Kesiswaan",
       items: [
-        { name: "Ekstrakurikuler", href: "/kesiswaan/ekstrakurikuler" },
-        { name: "Prestasi", href: "/kesiswaan/prestasi" },
         { name: "Tata Tertib", href: "/kesiswaan/tata-tertib" },
+        { name: "Model Seragam", href: "/kesiswaan/model-seragam" },
+        { name: "Ekstrakurikuler", href: "/kesiswaan/ekstrakurikuler" },
+        { name: "Prestasi Siswa", href: "/kesiswaan/prestasi" },
       ],
     },
     {
       title: "Sarana Prasarana",
       items: [
-        { name: "Fasilitas", href: "/sarana-prasarana/fasilitas" },
         { name: "Denah Sekolah", href: "/sarana-prasarana/denah" },
+        { name: "Fasilitas", href: "/sarana-prasarana/fasilitas" },
       ],
     },
-    { title: "Artikel", href: "/artikel" },
+    { title: "Alumni", href: "/alumni" },
   ];
 
   return (
