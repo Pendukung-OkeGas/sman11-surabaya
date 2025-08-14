@@ -2,7 +2,6 @@ import Layout from "@/components/Layout";
 import { Card, CardContent } from "@/components/ui/card";
 
 const Guru = () => {
-  // Sample teacher data - replace with actual data when available
   const sampleTeachers = [
     "Dra. Hj. Siti Aminah, M.Pd", "Drs. Ahmad Fauzi", "Sri Wahyuni, S.Pd", 
     "Dr. Bambang Sutrisno, M.Si", "Eka Pratiwi, S.Pd, M.Pd", "Drs. Muhammad Yusuf",
