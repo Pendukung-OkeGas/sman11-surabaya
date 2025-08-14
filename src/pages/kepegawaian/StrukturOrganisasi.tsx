@@ -1,5 +1,6 @@
 import Layout from "@/components/Layout";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import Strukturorganisasi from "@/assets/struktur-organisasi.png";
 
 const StrukturOrganisasi = () => {
   return (
@@ -24,7 +25,7 @@ const StrukturOrganisasi = () => {
             <CardContent>
               <div className="flex justify-center">
                 <img 
-                  src="/assets/struktur-organisasi.png" 
+                  src={Strukturorganisasi} 
                   alt="Struktur Organisasi SMAN 11 Surabaya"
                   className="w-full max-w-4xl h-auto object-contain rounded-lg shadow-md"
                 />
