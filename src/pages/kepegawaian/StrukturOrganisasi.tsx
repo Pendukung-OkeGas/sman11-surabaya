@@ -24,7 +24,7 @@ const StrukturOrganisasi = () => {
             <CardContent>
               <div className="flex justify-center">
                 <img 
-                  src="/placeholder.svg" 
+                  src="/assets/struktur-organisasi.jpg" 
                   alt="Struktur Organisasi SMAN 11 Surabaya"
                   className="w-full max-w-4xl h-auto object-contain rounded-lg shadow-md"
                 />

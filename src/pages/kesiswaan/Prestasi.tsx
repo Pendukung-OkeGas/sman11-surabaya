@@ -77,7 +77,8 @@ const Prestasi = () => {
                 penyelenggara: "Dinas Pendidikan Kota Surabaya",
                 tanggal: "2023-05-15",
                 kategori: "Akademik",
-                pemenang: "AHMAD REZA PAHLAWAN XII IPA.2"
+                pemenang: "AHMAD REZA PAHLAWAN XII IPA.2",
+                gambar: "/placeholder.svg"
               },
               {
                 peringkat: "Juara 2",
@@ -85,7 +86,8 @@ const Prestasi = () => {
                 penyelenggara: "Universitas Airlangga",
                 tanggal: "2023-08-20",
                 kategori: "Bahasa",
-                pemenang: "TIM DEBAT SMAN 11"
+                pemenang: "TIM DEBAT SMAN 11",
+                gambar: "/placeholder.svg"
               },
               {
                 peringkat: "Juara 3",
@@ -93,7 +95,8 @@ const Prestasi = () => {
                 penyelenggara: "KEMENDIKBUD",
                 tanggal: "2023-10-12",
                 kategori: "Sains",
-                pemenang: "SITI NURHALIZA XI IPA.1"
+                pemenang: "SITI NURHALIZA XI IPA.1",
+                gambar: "/placeholder.svg"
               },
               {
                 peringkat: "Juara 1",
@@ -101,7 +104,8 @@ const Prestasi = () => {
                 penyelenggara: "Institut Teknologi Sepuluh Nopember",
                 tanggal: "2023-11-05",
                 kategori: "Penelitian",
-                pemenang: "BAYU SETIAWAN XII IPA.3"
+                pemenang: "BAYU SETIAWAN XII IPA.3",
+                gambar: "/placeholder.svg"
               },
               {
                 peringkat: "Juara 2",
@@ -109,7 +113,8 @@ const Prestasi = () => {
                 penyelenggara: "Robotic Society East Java",
                 tanggal: "2023-09-18",
                 kategori: "Teknologi",
-                pemenang: "TIM ROBOTIKA SMAN 11"
+                pemenang: "TIM ROBOTIKA SMAN 11",
+                gambar: "/placeholder.svg"
               }
             ].map((prestasi, index) => (
               <Card key={`sample-${index}`} className="shadow-lg hover:shadow-xl transition-shadow duration-300">

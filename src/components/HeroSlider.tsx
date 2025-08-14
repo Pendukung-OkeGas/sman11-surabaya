@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import heroImage from "@/assets/foto-sekolah.jpg";
-import studentsImage from "@/assets/students-activities.jpg";
+import studentsImage from "@/assets/international-mathemati";
 import graduationImage from "@/assets/graduation-ceremony.jpg";
 
 const HeroSlider = () => {
@@ -28,7 +28,7 @@ const HeroSlider = () => {
       id: 3,
       image: graduationImage,
       title: "Lulusan Berkualitas Siap Menghadapi Masa Depan",
-      subtitle: "Kesan Pesan dari Alumni SMAN 11 Surabaya yang telah diterima di berbagai perguruan tinggi negeri ternama",
+      subtitle: "Kesan dan pesan dari Alumni SMAN 11 Surabaya yang telah diterima di berbagai perguruan tinggi negeri ternama",
       link: "/alumni",
     },
   ];

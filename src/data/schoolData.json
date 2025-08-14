@@ -85,8 +85,8 @@
         }
     },
     "kesiswaan": {
-      "tata_tertib": { "status": "Data Tersedia", "deskripsi": "Dokumen Tata Tertib Siswa SMAN 11 Surabaya versi 2020 telah diterima." },
-      "model_seragam": { "status": "Data Belum Tersedia", "deskripsi": "Membutuhkan foto model seragam (putih-abu, batik, pramuka) dari sekolah." },
+      "tata_tertib": { "status": "Data Tersedia", "deskripsi": "Dokumen Tata Tertib Siswa SMAN 11 Surabaya." },
+      "model_seragam": { "status": "Data Tersedia", "deskripsi": "Foto model seragam (putih-abu, batik, pramuka) dari sekolah." },
       "ekstrakurikuler": {
         "deskripsi_umum": "SMA Negeri 11 memiliki banyak kegiatan ekstrakurikuler untuk menyalurkan minat dan bakat siswa, di antaranya:",
         "daftar_ekstrakurikuler": [
@@ -122,20 +122,20 @@
     },
     "alumni": {
         "judul_seksi": "Kata Alumni",
-        "deskripsi_seksi": "Kisah inspiratif dari para alumni yang telah meniti karier dan kehidupan setelah lulus dari SMAN 11 Surabaya.",
+        "deskripsi_seksi": "Kisah inspiratif dari para alumni yang masuk ke PTN setelah lulus dari SMAN 11 Surabaya.",
         "testimonials": [
             {
-                "nama": "Hj. Ria Febriandary",
-                "lulusan_tahun": 1982,
+                "nama": "Muhammad Faizun Karim",
+                "lulusan_tahun": 2023,
                 "kutipan": "Masa-masa di SMAN 11 Surabaya bukan hanya tentang belajar di kelas, tapi juga tentang membentuk karakter. Saya belajar tentang arti persahabatan, disiplin, dan kerja keras dari guru-guru yang berdedikasi. Fondasi yang saya dapatkan di sini menjadi bekal yang sangat berharga dalam perjalanan hidup saya. Kenangan di SMAN 11 tak akan pernah terlupakan."
             },
             {
-                "nama": "Dra. Sonja Andarini, M.Si",
+                "nama": "Dimas Ahmad S.W.",
                 "lulusan_tahun": 1984,
                 "kutipan": "Dasar-dasar ilmu pengetahuan yang saya peroleh di SMAN 11 Surabaya sangat kokoh dan menjadi bekal utama saya untuk melanjutkan ke jenjang pendidikan tinggi hingga meraih gelar magister. Cara para guru menjelaskan konsep-konsep rumit dengan sabar membuat saya jatuh cinta pada ilmu pengetahuan. Saya sangat bersyukur pernah menjadi bagian dari almamater hebat ini."
             },
             {
-                "nama": "RADEN AGUS TEGUH WIDODO",
+                "nama": "Majesta Dzakiy W.",
                 "lulusan_tahun": 1985,
                 "kutipan": "Saya tidak hanya dibentuk di dalam ruang kelas, tetapi juga di lapangan dan ruang organisasi. Aktif di kegiatan ekstrakurikuler SMAN 11 mengajarkan saya tentang kepemimpinan, kerja sama tim, dan cara mengelola waktu. Pengalaman inilah yang ternyata sangat berharga dan membentuk saya dalam meniti karier. Terima kasih SMAN 11 Surabaya atas semua pelajarannya, baik di dalam maupun di luar kelas."
             }
@@ -165,7 +165,7 @@
     },
     "footer": {
       "kontak_kami": {
-        "nomor_telepon": "(031) 7405420", "email": "smaxisurabaya@gmail.com", "website_url": "https://www.sman11surabaya.sch.id", "instagram_url": "https://www.instagram.com/smaxisofficial/", "facebook_url": "https://web.facebook.com/sma11sby"
+        "nomor_telepon": "(031) 7405420", "email": "smaxisurabaya@gmail.com", "website_url": "https://www.sman11sby.com/", "instagram_url": "https://www.instagram.com/smaxisofficial/", "facebook_url": "https://web.facebook.com/sma11sby"
       }
     }
   }
