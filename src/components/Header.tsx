@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from "@/components/ui/sheet";
 import { Link } from "react-router-dom";
+import logo from "@/assets/logo.png";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -64,9 +65,11 @@ const Header = () => {
         <div className="flex h-16 items-center justify-between">
           {/* Logo and School Name */}
           <Link to="/" className="flex items-center space-x-3">
-            <div className="h-10 w-10 rounded-full bg-white/20 flex items-center justify-center">
-              <span className="text-white font-bold text-lg">11</span>
-            </div>
+            <img 
+              src={logo}
+              alt="Logo SMAN 11"
+              className="h-10 w-10"
+            />
             <div className="text-white">
               <h1 className="text-lg font-bold leading-tight">SMA NEGERI 11</h1>
               <p className="text-sm opacity-90">SURABAYA</p>
@@ -125,19 +128,16 @@ const Header = () => {
               <SheetContent side="left" className="school-header border-none">
                 <div className="flex items-center justify-between mb-8">
                   <div className="flex items-center space-x-3">
-                    <div className="h-8 w-8 rounded-full bg-white/20 flex items-center justify-center">
-                      <span className="text-white font-bold">11</span>
-                    </div>
+                    <img 
+                      src={logo}
+                      alt="Logo SMAN 11"
+                      className="h-8 w-8"
+                    />
                     <div className="text-white">
                       <h2 className="font-bold">SMAN 11</h2>
                       <p className="text-sm opacity-90">Surabaya</p>
                     </div>
                   </div>
-                  <SheetClose asChild>
-                    <Button variant="ghost" size="icon" className="text-white">
-                      <X className="h-6 w-6" />
-                    </Button>
-                  </SheetClose>
                 </div>
 
                 <nav className="space-y-4">
