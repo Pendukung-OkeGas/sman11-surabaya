@@ -5,7 +5,7 @@ import schoolData from "@/data/schoolData.json";
 
 const SejarahSekolah = () => {
   const { profil } = schoolData.website_profile_sman11_surabaya;
-  const { sejarah_sekolah, tentang_sekolah } = profil;
+  const { sejarah_sekolah} = profil;
 
   const milestones = [
     {
@@ -83,7 +83,7 @@ const SejarahSekolah = () => {
                       );
                     }
                     return (
-                      <p key={index} className="mb-6 leading-relaxed text-foreground">
+                      <p key={index} className="mb-6 leading-relaxed text-foreground text-justify">
                         {paragraph}
                       </p>
                     );
@@ -101,9 +101,6 @@ const SejarahSekolah = () => {
                   <h3 className="text-2xl font-bold text-primary mb-2">
                     Data Sekolah Saat Ini
                   </h3>
-                  <p className="text-muted-foreground">
-                    Statistik terkini SMA Negeri 11 Surabaya
-                  </p>
                 </div>
                 
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
@@ -122,49 +119,6 @@ const SejarahSekolah = () => {
                   <div className="text-center">
                     <div className="text-3xl font-bold text-primary mb-2">30</div>
                     <div className="text-sm text-muted-foreground">Rombongan Belajar</div>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
-          </div>
-
-          {/* School Identity */}
-          <div className="mt-16">
-            <Card className="shadow-card">
-              <CardContent className="p-8">
-                <h3 className="text-2xl font-bold text-primary mb-6 text-center">
-                  Identitas Sekolah
-                </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                  <div>
-                    <h4 className="font-semibold text-primary mb-3">Informasi Umum</h4>
-                    <div className="space-y-2 text-sm">
-                      <div className="flex justify-between">
-                        <span className="text-muted-foreground">NPSN:</span>
-                        <span>{tentang_sekolah.identitas.npsn}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-muted-foreground">Akreditasi:</span>
-                        <span className="font-semibold text-primary">{tentang_sekolah.identitas.akreditasi}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-muted-foreground">Status:</span>
-                        <span>{tentang_sekolah.identitas.status_sekolah}</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-primary mb-3">Legalitas</h4>
-                    <div className="space-y-2 text-sm">
-                      <div className="flex justify-between">
-                        <span className="text-muted-foreground">SK Pendirian:</span>
-                        <span>{tentang_sekolah.legalitas.sk_pendirian}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-muted-foreground">Tanggal SK:</span>
-                        <span>{new Date(tentang_sekolah.legalitas.tanggal_sk_pendirian).toLocaleDateString('id-ID')}</span>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </CardContent>
